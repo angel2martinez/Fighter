@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4b7f2542.css",
+    "main.js": "/static/js/main.0c27e1ef.js",
+    "static/media/Runner.mp4": "/static/media/Runner.97bb7a09724893d5df41.mp4",
+    "static/media/Home1 Video.mp4": "/static/media/Home1 Video.7e653ef75ea9a67de81f.mp4",
+    "static/media/akaya-telivigala-all-400-normal.woff": "/static/media/akaya-telivigala-all-400-normal.78fd8cb2a221beeb77ce.woff",
+    "static/media/nasa.jpg": "/static/media/nasa.2e7c29d82012e47e7ec2.jpg",
+    "static/media/CF 6.jpg": "/static/media/CF 6.3de47f3a8e841b29197f.jpg",
+    "static/media/CF 5.jpg": "/static/media/CF 5.a9cf1958c4cd30bd11ec.jpg",
+    "static/media/CF 2.jpg": "/static/media/CF 2.fbc5cb1410cf09ca3ddb.jpg",
+    "static/media/akaya-telivigala-telugu-400-normal.woff2": "/static/media/akaya-telivigala-telugu-400-normal.cc24af700d82d6ced8f6.woff2",
+    "static/media/CF 1.jpg": "/static/media/CF 1.3425f474c11885336d3e.jpg",
+    "static/media/CF 3.jpg": "/static/media/CF 3.dccdc95711da2195c2cd.jpg",
+    "static/media/akaya-telivigala-latin-400-normal.woff2": "/static/media/akaya-telivigala-latin-400-normal.6adfb2bb1dd65aa73a6c.woff2",
+    "static/media/sora-all-400-normal.woff": "/static/media/sora-all-400-normal.fc2a204a844d60c30272.woff",
+    "static/media/akaya-telivigala-latin-ext-400-normal.woff2": "/static/media/akaya-telivigala-latin-ext-400-normal.806924fe3d6edb5e4e59.woff2",
+    "static/media/sora-latin-400-normal.woff2": "/static/media/sora-latin-400-normal.7055d291e674243dedf8.woff2",
+    "static/media/sora-latin-ext-400-normal.woff2": "/static/media/sora-latin-ext-400-normal.101a61e4b152678c5ec1.woff2",
+    "static/media/Arrow.svg": "/static/media/Arrow.94ea34e744b92c5dad541e35d3a63dab.svg",
+    "index.html": "/index.html",
+    "main.4b7f2542.css.map": "/static/css/main.4b7f2542.css.map",
+    "main.0c27e1ef.js.map": "/static/js/main.0c27e1ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b7f2542.css",
+    "static/js/main.0c27e1ef.js"
+  ]
+}
